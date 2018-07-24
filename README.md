@@ -3,7 +3,7 @@
 
 The LCIRT Lab has developed a solution for collecting synchronous data from multiple synchronized research tools as well as user mouse movements. The solutions developed for the Eye Tracker and fNIR tools are shared here with the hope that it will aid others in their research eforts:
 
-  1. **Eye Tracker code:** This is our replacement to the code included in the LSL distribution
+  1. **[Eye Tracker code](/LCIRT_fNIR_LSL.py):** This is our replacement to the code included in the LSL distribution
   2. **fNIR code:** This adds the capability to stream fNIR data
 
 #### Project Members ####
