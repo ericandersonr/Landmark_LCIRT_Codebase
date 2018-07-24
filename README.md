@@ -4,13 +4,13 @@
 The LCIRT Lab has developed a solution for collecting synchronous data from multiple synchronized research tools as well as user mouse movements. The solutions developed for the Eye Tracker and fNIR tools are shared here with the hope that it will aid others in their research eforts:
 
   1. **[Eye Tracker code](/LCIRT_fNIR_LSL.py):** This is our replacement to the code included in the LSL distribution
-  2. **fNIR code:** This adds the capability to stream fNIR data
+  2. **[fNIR code](/LCIRT_EyelinkSync_LSL.py):** This adds the capability to stream fNIR data
+
+Click to name of the file to open the code or click above to go to the GitHub repository.
 
 #### Project Members ####
   + Ibrahim H. Dahlstrom-Hakki PhD: <IDahlstromHakki@Landmark.edu>
   + Eric R. Anderson PhD: <EricAnderson@Landmark.edu>
-
-[Contribution guidelines for this project](/LCIRT_fNIR_LSL.py)
 
 ###### About the Lab Streaming Layer
 The lab streaming layer (LSL) is a system for the unified collection of measurement time series in research experiments 
