@@ -6,7 +6,7 @@ The LCIRT Lab has developed a solution for collecting synchronous data from mult
   1. **[Eye Tracker code](/LCIRT_fNIR_LSL.py):** This is our replacement to the code included in the LSL distribution
   2. **[fNIR code](/LCIRT_EyelinkSync_LSL.py):** This adds the capability to stream fNIR data
 
-Click to name of the file to open the code or click above to go to the GitHub repository.
+Click on the name of the file to open the code or click above to go to the GitHub repository.
 
 Authors
   + Ibrahim H. Dahlstrom-Hakki PhD: <IDahlstromHakki@Landmark.edu>
@@ -16,7 +16,7 @@ Authors
 The lab streaming layer (LSL) is a system for the unified collection of measurement time series in research experiments 
 that handles both the networking, time-synchronization, (near-) real-time access as well as optionally the centralized collection, 
 viewing and disk recording of the data.
-  + [LSL Github Project:] (/https://github.com/sccn/labstreaminglayer)
+  + LSL Github Project: (/https://github.com/sccn/labstreaminglayer)
 
 ###### About the Lab:
 The Landmark College Institute for Research and Training (LCIRT) actively engages in discovery and applied research on 
