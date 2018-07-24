@@ -15,7 +15,7 @@ The LCIRT Lab has developed a solution for collecting synchronous data from mult
 The lab streaming layer (LSL) is a system for the unified collection of measurement time series in research experiments 
 that handles both the networking, time-synchronization, (near-) real-time access as well as optionally the centralized collection, 
 viewing and disk recording of the data.
-  + LSL Github Project: (/https://github.com/sccn/labstreaminglayer)
+  + LSL Github Project: https://github.com/sccn/labstreaminglayer
 
 ###### About the Lab:
 The Landmark College Institute for Research and Training (LCIRT) actively engages in discovery and applied research on 
