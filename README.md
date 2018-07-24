@@ -1,17 +1,19 @@
 # Landmark_LCIRT_Codebase
+Python Code for Streaming Eye Tracker and fNIR data based on the Lab Streaming Layer (LSL) 
 
 The LCIRT Lab has developed a solution for collecting synchronous data from multiple synchronized research tools as well as user mouse movements. The solutions developed for the Eye Tracker and fNIR tools are shared here with the hope that it will aid others in their research eforts:
-1. Eye Tracker code: This is our replacement to the code included in the LSL distribution
-2. fNIR code: This adds the capability to stream fNIR data
+
+  1. Eye Tracker code: This is our replacement to the code included in the LSL distribution
+  2. fNIR code: This adds the capability to stream fNIR data
 
 We welcome comments and feedback. For the main LSL distribution see: 
 
 networked, time-synchronous data collection system 
-Python Code for Streaming Eye Tracker and fNIR data to the Lab Streaming Layer (LSL) 
 
 
 
-Summary
+
+About the Lab Streaming Layer
 The lab streaming layer (LSL) is a system for the unified collection of measurement time series in research experiments that handles both the networking, time-synchronization, (near-) real-time access as well as optionally the centralized collection, viewing and disk recording of the data.
 
 
