@@ -6,20 +6,16 @@ The LCIRT Lab has developed a solution for collecting synchronous data from mult
   1. Eye Tracker code: This is our replacement to the code included in the LSL distribution
   2. fNIR code: This adds the capability to stream fNIR data
 
-We welcome comments and feedback. For the main LSL distribution see: 
-
-networked, time-synchronous data collection system 
-
-
+We welcome comments and feedback. 
 
 
 About the Lab Streaming Layer
-The lab streaming layer (LSL) is a system for the unified collection of measurement time series in research experiments that handles both the networking, time-synchronization, (near-) real-time access as well as optionally the centralized collection, viewing and disk recording of the data.
-
+The lab streaming layer (LSL) is a system for the unified collection of measurement time series in research experiments 
+that handles both the networking, time-synchronization, (near-) real-time access as well as optionally the centralized collection, 
+viewing and disk recording of the data.
 
 About the Lab:
-Landmark College Institute for Research & Training (LCIRT)
-https://www.landmark.edu/research-training
-
-The Landmark College Institute for Research and Training (LCIRT) actively engages in discovery and applied research on issues related to diverse learners, including those with learning disabilities (such as dyslexia), attention deficit hyperactivity disorder (ADHD), and autism spectrum disorder (ASD). The unique populations of students at Landmark College inform and guide our research interests. 
-
+The Landmark College Institute for Research and Training (LCIRT) actively engages in discovery and applied research on 
+issues related to diverse learners, including those with learning disabilities (such as dyslexia), attention deficit 
+hyperactivity disorder (ADHD), and autism spectrum disorder (ASD). The unique populations of students at Landmark College 
+inform and guide our research interests. https://www.landmark.edu/research-training
