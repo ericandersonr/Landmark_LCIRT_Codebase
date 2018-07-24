@@ -1,6 +1,6 @@
 #### Eye Tracker and fNIR Python Code for Lab Streaming Layer (LSL) ####
 
-We are sharing code that broadcasts data from our eye tracker and fNIR devices using the Lab Streaming Layer. To the best of our knowledge, the LCIRT Lab's ability to gather data from EEG, eye tracker, and fNIR synchronously provides a unique and innovative research tool for non-invasive experiments. The code below (click on file name) will allow users to broadcast a continuous stream of measurement data from each device. 
+We are sharing code that broadcasts data from our eye tracker and fNIR devices using the Lab Streaming Layer. To the best of our knowledge, the LCIRT lab's ability to gather data from EEG, eye tracker, and fNIR synchronously provides a unique and innovative research tool for non-invasive experiments. The code below (click on file name) will allow users to broadcast a continuous stream of measurement data from each device. 
 1. **[Eye Tracker code](/LCIRT_fNIR_LSL.py):** This is our replacement to the code included in the LSL distribution
 2. **[fNIR code](/LCIRT_EyelinkSync_LSL.py):** This adds the capability to stream fNIR data
 >> Code also available directly from the GitHub Site
