@@ -1,5 +1,5 @@
-# Landmark LCIRT Codebase
-## Python Code for Streaming Eye Tracker and fNIR data based on the Lab Streaming Layer (LSL) 
+## Landmark LCIRT Codebase ##
+### Python Code for Streaming Eye Tracker and fNIR data based on the Lab Streaming Layer (LSL) ###
 
 The LCIRT Lab has developed a solution for collecting synchronous data from multiple synchronized research tools as well as user mouse movements. The solutions developed for the Eye Tracker and fNIR tools are shared here with the hope that it will aid others in their research eforts:
 
