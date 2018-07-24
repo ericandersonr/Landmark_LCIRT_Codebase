@@ -4,7 +4,8 @@ The LCIRT Lab has developed a solution for collecting synchronous data from mult
 1. **[Eye Tracker code](/LCIRT_fNIR_LSL.py):** This is our replacement to the code included in the LSL distribution
 2. **[fNIR code](/LCIRT_EyelinkSync_LSL.py):** This adds the capability to stream fNIR data
 
-</br>
+
+
 
 ###### Authors ######
   + Ibrahim H. Dahlstrom-Hakki PhD: <IDahlstromHakki@Landmark.edu>
